@@ -10,7 +10,7 @@
 *            a21,a22,a23,a24....a2n
 *                               a3n
 *             an1,an2,an3........ann]
-*b is a bertical column
+*b is a vertical column
 *    b=[b1,
 *	b2,
 *	b3,
