@@ -27,16 +27,16 @@
 *	 ...
 *	 xn]
 
-*Jacobi_Method_Parallel is a funtion to get the valuse of X
+*Jacobi_Method_Parallel is a funtion to get the value of X
 
-*Input:the matrxX size, the valude of  matriX  and  b
+*Input:the matrix X size, the value of  matrix X  and  b
 
 *Output: The convergence value of X and The CPU clock cycle of Runing time 
 
 */
 using namespace std;
 #define Random 0.00001// set the random is 0.0001
-#define array 20// the max size of array is limited to 20, if 
+#define array 20// the max size of array is limited to 20
 #define Max_Iterations 500// the total Iterations number is limited to 500
 
 void Jacobi_Method_Parallel()
