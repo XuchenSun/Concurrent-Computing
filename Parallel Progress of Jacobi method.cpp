@@ -12,26 +12,26 @@
 *             an1,an2,an3........ann]
 *b is a bertical column
 *    b=[b1,
-*	    b2,
-*		b3,
-*		b4,
-*		...
-*		bn]
+*	b2,
+*	b3,
+*	b4,
+*	...
+*	bn]
 
 
 * The output is the x
 *    x =[x1,
-*	     x2,
-*		 x3,
-*		 x4,
-*		 ...
-*		 xn
+*	 x2,
+*	 x3,
+*	 x4,
+*	 ...
+*	 xn]
 
 *Jacobi_Method_Parallel is a funtion to get the valuse of X
 
-Input:the matrxX size, the valude of  matriX  and  b
+*Input:the matrxX size, the valude of  matriX  and  b
 
-Output: The convergence value of X and The CPU clock cycle of Runing time 
+*Output: The convergence value of X and The CPU clock cycle of Runing time 
 
 */
 using namespace std;
