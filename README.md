@@ -12,7 +12,7 @@ Best wishes!
 Xuchen Sun 2020-08-29
 
 
-Jacobi Parallel Method.cpp
+Descriptions about Jacobi Parallel Method.cpp
 
 Jacobi_Method_Parallel is a funtion to get the valuse of X
 Jacobi method is a square system of n linear equations, where Ax=b
