@@ -14,13 +14,17 @@ Hello Everyone!
 
 Jacobi Parallel Method.cpp
 
+Jacobi_Method_Parallel is a funtion to get the valuse of X
+Jacobi method is a square system of n linear equations, where Ax=b
     Input:the matrxX size, the valude of  matrix X and b
     Output : The convergence value of X 
-    Jacobi method is a square system of n linear equations, where Ax=b
+
+Matrix A
 *   matrixA=[a11,a12,a13,a14....a1n
 *            a21,a22,a23,a24....a2n
 *                               a3n
 *             an1,an2,an3........ann]
+Matrix B
 b is a vertical column
 *    b=[b1,
 *	    b2,
@@ -35,7 +39,6 @@ The output is the x
 *		 x4,
 *		 ...
 *		 xn
-Jacobi_Method_Parallel is a funtion to get the valuse of X
-Input:the matrxX size, the valude of  matriX  and  b
-Output: The convergence value of X 
+
+
 
