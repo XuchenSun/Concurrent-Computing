@@ -1,5 +1,14 @@
-# Parallel-Processing
-Some Program about parallel
+# Concurrent-Computing
+Hello Everyone!
+    My name is Xuchen and these are my some programs about concurrent computing.
+    
+    Some descriptions about the programs are given in followed.
+    
+    I hope these programs will help you.
+    
+    Best wishes!
+
+Some Program about concurrent-computing
 Xuchen Sun 2020-08-29
 Input:the matrxX size, the valude of  matrix X and b
 Output : The convergence value of X 
