@@ -1,15 +1,15 @@
 # Concurrent-Computing
 Hello Everyone!
 
-  My name is Xuchen and these are my some programs about concurrent computing.
+My name is Xuchen and these are my some programs about concurrent computing.
     
-  Some descriptions about the programs are given in followed.
+Some descriptions about the programs are given in followed.
     
-  I hope these programs will help you.
+I hope these programs will help you.
     
-  Best wishes!
+Best wishes!
 
-  Xuchen Sun 2020-08-29
+Xuchen Sun 2020-08-29
 
 
 Jacobi Parallel Method.cpp
