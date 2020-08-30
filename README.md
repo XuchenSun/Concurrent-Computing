@@ -1,18 +1,22 @@
 # Concurrent-Computing
 Hello Everyone!
-    My name is Xuchen and these are my some programs about concurrent computing.
-    
-    Some descriptions about the programs are given in followed.
-    
-    I hope these programs will help you.
-    
-    Best wishes!
 
-Some Program about concurrent-computing
-Xuchen Sun 2020-08-29
-Input:the matrxX size, the valude of  matrix X and b
-Output : The convergence value of X 
- Jacobi method is a square system of n linear equations, where Ax=b
+  My name is Xuchen and these are my some programs about concurrent computing.
+    
+  Some descriptions about the programs are given in followed.
+    
+  I hope these programs will help you.
+    
+  Best wishes!
+
+  Xuchen Sun 2020-08-29
+
+
+Jacobi Parallel Method.cpp
+
+    Input:the matrxX size, the valude of  matrix X and b
+    Output : The convergence value of X 
+    Jacobi method is a square system of n linear equations, where Ax=b
 *   matrixA=[a11,a12,a13,a14....a1n
 *            a21,a22,a23,a24....a2n
 *                               a3n
