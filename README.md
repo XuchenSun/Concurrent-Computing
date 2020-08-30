@@ -24,8 +24,7 @@ Matrix A
 *            a21,a22,a23,a24....a2n
 *                               a3n
 *             an1,an2,an3........ann]
-Matrix B
-b is a vertical column
+Matrix B:b is a vertical column
 *    b=[b1,
 *	    b2,
 *		b3,
